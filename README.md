@@ -5,7 +5,6 @@ Um sistema web completo criado em React e TypeScript
 ## Começando
 
  - Clone o projeto para uma pasta.
- <br/>
  - Execulte o comando `yarn install` ou `npm install`, (Recomendado o `yarn`).
 
 ## Iniciando o Server
